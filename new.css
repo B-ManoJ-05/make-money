@@ -81,11 +81,5 @@ button:hover{
   .ja{
     text-align: center;
   }
-  body{
-    background-image: url(./bed.avif);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
- }
+ 
  
